@@ -29,3 +29,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Task 2
+
+- Cloudfront URL: https://di3lwshdkkn9h.cloudfront.net/
+- S3: https://bkb-store-app-sls.s3.eu-central-1.amazonaws.com/index.html

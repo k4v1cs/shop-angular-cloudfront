@@ -3,6 +3,7 @@
 @import "bootstrap/scss/mixins/breakpoints";
 
 .container {
+  background-color: pink;
   display: grid;
   grid-template-columns: 1fr;
 
